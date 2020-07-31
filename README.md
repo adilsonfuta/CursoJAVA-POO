@@ -23,4 +23,6 @@ sendo que cada aula foi e sera uma continuadade de conteudos sobre java (com Poo
 
 -- CLASSES, ATRIBUTOS , METODOS, CONSTRUTOR E INSTANCIA  |  [VEJA AQUI](https://www.facebook.com/1645664532185143/videos/302497620775111/). | Aula 3
 
--- Relação Entre Classes (RELAÇÃO É UM HERANÇA - DIRECTA ) |  [VEJA AQUI](https://www.facebook.com/1645664532185143/videos/951134562025185/). | Aula 4
+-- Relação Entre Classes ( HERANÇA - Exemplo Pratico de Herança Directa ) |  [VEJA AQUI](https://www.facebook.com/1645664532185143/videos/951134562025185/). | Aula 4
+
+-- Relação Entre Classes (RELAÇÃO É UM HERANÇA - Teorica ) |  [VEJA AQUI](https://www.facebook.com/institutodetelecomunicacoes.Itel/videos/736178073836506). (Apenas video)
