@@ -3,7 +3,7 @@
 # Curso de Java POO 
 
 <h1 align="center">
-    <img alt="" height="300" width="300"  title="" src="poo.png">
+    <img alt=""   title="" src="poo.png">
 </h1>
 
 ## Curso  de Programação Orientada a Objetos (POO) com a linguagem Java
@@ -13,7 +13,7 @@ Todas as aulas foram gravadas e estão disponivel na pagina do  [facebook do Ite
 
 sendo que cada aula foi e sera uma continuadade de conteudos sobre java (com Poo e Swing), usando interfaces, visuais ou simplesmente formularios
  
-<p align="center"> <img src="topicos.png" alt="heroes" height="250"> </p>
+<p align="center"> <img src="topicos.png" alt="heroes" height="300"> </p>
 
 ## Conteudos apresentados e seus respectivos exercicios:
 
